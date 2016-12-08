@@ -225,7 +225,7 @@ I'm on the journey, too. Follow along:
 
 ## Don't feel you aren't smart enough
 - Google engineers are smart, but many have an insecurity that they aren't smart enough, even though they work at Google.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [ ]  [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 
 ## About Google
 
